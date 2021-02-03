@@ -1,0 +1,23 @@
+.fa, .far, .fas {
+  font-family: "Font Awesome 5 Free" !important; }
+
+.dataTables_scrollBody {
+  border: none !important; }
+
+input {
+  border: none; }
+
+* {
+  font-family: "Tajawal", sans-serif !important;
+  font-weight: 700 !important; }
+
+a {
+  text-decoration: none !important; }
+
+a:hover {
+  color: #000; }
+
+.row {
+  text-align: right; }
+
+/*# sourceMappingURL=style.css.map */
